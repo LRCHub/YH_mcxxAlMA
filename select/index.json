@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "MY LIBERATION",
+  "base_artist": "ナノ",
+  "createdAt": "2025-12-04T14:50:03.959346Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "My Liberation",
+      "artist": "nano",
+      "has_synced": true,
+      "path": "select/01_My_Liberation_nano.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "MY LIBERATION",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/02_MY_LIBERATION_ナノ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "MY LIBERATION",
+      "artist": "NANO",
+      "has_synced": false,
+      "path": "select/03_MY_LIBERATION_NANO.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "My Liberation",
+      "artist": "ナノ",
+      "has_synced": true,
+      "path": "select/04_My_Liberation_ナノ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "MY LIBERATION (Instrumental ver.)",
+      "artist": "nano",
+      "has_synced": true,
+      "path": "select/05_MY_LIBERATION_(Instrumental_ver.)_nano.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "MY LIBERATION Instrumental ver.",
+      "artist": "nano",
+      "has_synced": true,
+      "path": "select/06_MY_LIBERATION_Instrumental_ver._nano.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "MY LIBERATION",
+      "artist": "ナノ",
+      "has_synced": false,
+      "path": "select/pl_01_MY_LIBERATION_ナノ.txt"
+    }
+  ]
+}
